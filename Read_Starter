@@ -1,0 +1,11 @@
+https://start.spring.io/
+SpringBoot version select
+Group: com.name
+Artifact: cruddemo
+Dependencies: Spring web starter, Spring Data JPA, Spring Boot DevTools, MySQL Driver
+
+Run: com.springboot.CRUDdemo> with java application
+On browser navigate to: http://localhost:8080/api/employees/
+
+Here added UNIT Testing inside: srs/test/java
+
